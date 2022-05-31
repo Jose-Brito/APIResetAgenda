@@ -1,0 +1,35 @@
+{
+    "user":[
+        {"id": 1, 
+        "nombre":"", 
+        "apellido":"", 
+        "telefono":"", 
+        "categoria":"",
+        "fecha": "", 
+        "hora": ""},
+
+        {"id": 2, 
+            "nombre":"", 
+            "apellido":"", 
+            "telefono":"", 
+            "categoria":"",
+            "fecha": "", 
+            "hora": ""},
+
+            {"id": 3, 
+                "nombre":"", 
+                "apellido":"", 
+                "telefono":"",
+                "categoria":"", 
+                "fecha": "", 
+                "hora": ""},
+
+                {"id": 4, 
+                    "nombre":"", 
+                    "apellido":"", 
+                    "telefono":"",
+                    "categoria":"", 
+                    "fecha": "", 
+                    "hora": ""}
+    ]
+}
